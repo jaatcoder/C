@@ -1,0 +1,1 @@
+{"name":"Local: Class","url":"/Users/mubinsompod/Documents/For Code/c/Class.c","tests":[{"id":1699249780188,"input":"4\n1 2 3 4 \n1 2 3 4\n1 2 3 4\n1 2 3 4","output":"1 2 3 4 \n1 2 3 4 \n1 2 3 4 \n1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mubinsompod/Documents/For Code/c/Class.c","group":"local","local":true}

@@ -1,0 +1,17 @@
+{
+    "Skeleton": {
+        "prefix": "!",
+        "body": [
+            "#include <stdio.h>",
+            "#include <stdlib.h>",
+            "",
+            "int main(void)",
+            "{",
+            "\t${1:code}",
+            "\treturn 0;",
+            "}",
+            ""
+        ],
+        "description": "Dummy C program skeleton"
+    }
+}

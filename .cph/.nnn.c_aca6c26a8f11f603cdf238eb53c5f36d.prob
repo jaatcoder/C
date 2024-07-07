@@ -1,0 +1,1 @@
+{"name":"Local: nnn","url":"/Users/mubinsompod/Documents/For Code/c/nnn.c","tests":[{"id":1704689358198,"input":"4\n4 1 2 10","output":"12 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mubinsompod/Documents/For Code/c/nnn.c","group":"local","local":true}
